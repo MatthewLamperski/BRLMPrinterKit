@@ -15,6 +15,7 @@
 			dependencies = (
 			);
 			name = BRLMPrinterKit;
+			productName = BRLMPrinterKit;
 		};
 /* End PBXAggregateTarget section */
 
@@ -35,24 +36,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0957394F15423E4BDC2E08347317BECD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		0957394F15423E4BDC2E08347317BECD /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		09DB2845FBEFDF13D5C21F259C47A2B9 /* Pods-BRLMPrinterKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BRLMPrinterKit_Example.modulemap"; sourceTree = "<group>"; };
-		0E57326A3C757BC2886B27EA3F68CF1F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		0E57326A3C757BC2886B27EA3F68CF1F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		104BB1F2D4766BBC851BAB82A60D3B22 /* Pods-BRLMPrinterKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BRLMPrinterKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		13D2B60640D1A41FF652033652980100 /* Pods-BRLMPrinterKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BRLMPrinterKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		175DEE0D8E9D3ADE43CC2E2391336101 /* BRLMPrinterKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = BRLMPrinterKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		175DEE0D8E9D3ADE43CC2E2391336101 /* BRLMPrinterKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = BRLMPrinterKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		24865FFAB2747C5270355A07D8632A58 /* Pods-BRLMPrinterKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BRLMPrinterKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		24AAE9772B235BEA00ABDC55 /* BRLMPrinterKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = BRLMPrinterKit.xcframework; path = ../../../Downloads/bpsdkiall467/bpsdki467/libs/BT_Net/BRLMPrinterKit.xcframework; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3D3744EF85167B71AB1247249C201D70 /* Pods_BRLMPrinterKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BRLMPrinterKit_Example.framework; path = "Pods-BRLMPrinterKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D3744EF85167B71AB1247249C201D70 /* Pods_BRLMPrinterKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BRLMPrinterKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B6588E176C2D4C8E27C77F466763C3B /* Pods-BRLMPrinterKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BRLMPrinterKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A48E33FA938F308626E7CF1EB4F946FB /* Pods-BRLMPrinterKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BRLMPrinterKit_Example-dummy.m"; sourceTree = "<group>"; };
 		A587069B0545A00C912D7B9C7D9F7525 /* Pods-BRLMPrinterKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BRLMPrinterKit_Example-Info.plist"; sourceTree = "<group>"; };
 		A5C61CCBFD619DD2337230C23ED6831A /* BRLMPrinterKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BRLMPrinterKit.debug.xcconfig; sourceTree = "<group>"; };
 		B542DEE67A09AE58E2119E4A8FDFC18D /* Pods-BRLMPrinterKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BRLMPrinterKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		DBA6A5E7A00D2BA0350DD6F1804CAD20 /* Pods-BRLMPrinterKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BRLMPrinterKit_Example-frameworks.sh"; sourceTree = "<group>"; };
 		DE4E9956E8EBC6550A4012581A93E2D5 /* BRLMPrinterKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BRLMPrinterKit.release.xcconfig; sourceTree = "<group>"; };
-		DF063997ABEE37A0C335F774F1242341 /* BRLMPrinterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = BRLMPrinterKit.framework; path = BRLMPrinterKit/BRLMPrinterKit.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +79,7 @@
 		2A68F45F9FCC98083C00A3DD3A185E6A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				DF063997ABEE37A0C335F774F1242341 /* BRLMPrinterKit.framework */,
+				24AAE9772B235BEA00ABDC55 /* BRLMPrinterKit.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -366,8 +367,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
